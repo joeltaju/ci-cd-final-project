@@ -12,7 +12,7 @@ Name your repo: `ci-cd-final-project`.
 
 ## Setup
 
-After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
+After entering the lab environment, you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
 
 ```bash
 bash bin/setup.sh
